@@ -43,5 +43,6 @@ __*mix*__
 - [ ] Task 2
 - [x] Task 3 DONE
 
-##Image
+##LINK
 
+[My GitHub] (https://github.com/mabisteinkirch)
