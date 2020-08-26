@@ -73,4 +73,4 @@ else:
 
 :vulcan_salute:
 
-[For more emoti's] (emojipedia.org)
+For more emoti's (emojipedia.org)
