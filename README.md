@@ -46,3 +46,26 @@ __*mix*__
 ##LINK
 
 [My GitHub] (https://github.com/mabisteinkirch)
+
+##Table
+
+Cod | Name | Age 
+---|---|---|
+1 | A | 20
+2 | B | 30
+3 | C | 40
+
+##Command 
+
+`document.getElementById()`
+
+#Cod
+
+``` 
+num  = int (input('Value: '))
+if num %2 == 0:
+   printf(f'Value is {num} is EVEN')
+else:
+   printf(f'Value is {num} is ODD')
+```
+
