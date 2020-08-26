@@ -69,3 +69,8 @@ else:
    printf(f'Value is {num} is ODD')
 ```
 
+#Emoti
+
+:vulcan_salute:
+
+[For more emoti's] (emojipedia.org)
