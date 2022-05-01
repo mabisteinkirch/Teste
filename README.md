@@ -2,11 +2,11 @@
 
 ##Bold
 
-**Bold 2 asterisc** __bold 2 underline__ 
+**Bold 2 asterisc** __bold 2 underline__
 
 ##Italic
 
-*italic 1 asterisc* _italic 1 underline_ 
+*italic 1 asterisc* _italic 1 underline_
 
 ##Risk
 
@@ -19,7 +19,7 @@ __*mix*__
 ##List with number
 
 1. Test
-1. Test 2 
+1. Test 2
    1. Test 3
    1. Test 4
 999. Test 5
@@ -49,25 +49,27 @@ __*mix*__
 
 ##Table
 
-Cod | Name | Age 
+Cod | Name | Age
 ---|---|---|
 1 | A | 20
 2 | B | 30
 3 | C | 40
 
-##Command 
+##Command
 
 `document.getElementById()`
 
 #Cod
 
-``` 
+```
 num  = int (input('Value: '))
 if num %2 == 0:
    printf(f'Value is {num} is EVEN')
 else:
    printf(f'Value is {num} is ODD')
 ```
+
+
 
 #Emoti
 
